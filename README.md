@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayushi</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<img align="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&psig=AOvVaw0oh2hOkLj1sLw1RtzoJ76S&ust=1696181643268000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiDrJnv0oEDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi068&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi068" /> </p>
 
