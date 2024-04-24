@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java and Frontend**
 
-- 📫 How to reach me **ayushigoel@gmail.com**
+- 📫 How to reach me **ayushigoel0323@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
