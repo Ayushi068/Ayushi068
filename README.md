@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi068&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi068" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Java and Frontend**
+- 💬 Ask me about **Java , Python , Agentic AI, SpringBoot**
 
 - 📫 How to reach me **ayushigoel0323@gmail.com**
 
